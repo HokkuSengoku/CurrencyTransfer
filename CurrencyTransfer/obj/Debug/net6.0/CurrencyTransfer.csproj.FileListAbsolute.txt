@@ -1,0 +1,17 @@
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.csproj.AssemblyReference.cache
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.AssemblyInfoInputs.cache
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.AssemblyInfo.cs
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.csproj.CoreCompileInputs.cache
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\bin\Debug\net6.0\CurrencyTransfer.exe
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\bin\Debug\net6.0\CurrencyTransfer.deps.json
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\bin\Debug\net6.0\CurrencyTransfer.runtimeconfig.json
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\bin\Debug\net6.0\CurrencyTransfer.dll
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\bin\Debug\net6.0\CurrencyTransfer.pdb
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.dll
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\refint\CurrencyTransfer.dll
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.pdb
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.genruntimeconfig.cache
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\ref\CurrencyTransfer.dll
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\darks\source\repos\CurrencyTransfer\CurrencyTransfer\obj\Debug\net6.0\CurrencyTransfer.csproj.CopyComplete
